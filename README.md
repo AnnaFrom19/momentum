@@ -1,2 +1,0 @@
-# momentum
-Project from RSSchool
